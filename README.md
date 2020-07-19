@@ -19,7 +19,7 @@ Models we will use are as follows:
 
 **Other Details:**
 
-   - **Operating systme:** Ubunut 18.04 LTS
+   - **Operating System:** Ubuntu 18.04 LTS
    - **Programming language:** Python3.6
    - **Python programming library version**
        - Tensorflow: 1.14.0
