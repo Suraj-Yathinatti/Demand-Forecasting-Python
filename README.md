@@ -37,6 +37,6 @@ Models we will use are as follows:
 - https://facebook.github.io/prophet/
 
 
-**Note:** Do not forget they are just quick and basic predictions so we can improve these models with tuning and according to the availability of the dataset and business requirements.
+**Note:** Do not forget they are just quick and basic predictions so we can improve these models with tuning and according to availability of the dataset and business requirements.
 
 Cheers :+1:
