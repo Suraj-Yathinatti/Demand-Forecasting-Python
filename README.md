@@ -10,7 +10,8 @@
 We will try to forecast a time series data by building three different model with Python, and inspect their resutls. 
 
 Models we will use are as follows: 
-    - **ARIMA (Autoregressive Integrated Moving average)**
+
+    **- ARIMA (Autoregressive Integrated Moving average)**
     - **LSTM (Long Short Term Memory Neural Network)**
     - **Facebook Prophet**
       
