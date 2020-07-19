@@ -17,9 +17,9 @@ Models we will use are as follows:
 
 **Other Details:**
 
-    **- Operating systme:** Ubunut 18.04 LTS
-    **- Programming language:** Python3.6
-    **- Python programming library version:**
+   - **Operating systme:** Ubunut 18.04 LTS
+   - **Programming language:** Python3.6
+   - **Python programming library version**
             - Tensorflow: 1.14.0
             - Keras: 2.3.1
             - Matplotlib: 3.2.2
@@ -39,4 +39,4 @@ Models we will use are as follows:
 **Note:** Do not forget they are just quick and basic predictions so we can improve these models with tuning and according to the availability of the dataset and business requirements.
 
 Cheers,
-Suraj Yathinatti.
+- Suraj Yathinatti.
