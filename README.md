@@ -1,6 +1,6 @@
 # Demand-Forecasting---Python
 
-**Time-series Forecasting - Tableau Superstore dataset at Sub-Category level using ARIMA, LSTM, and Prophet with Python**
+**Time-series Forecasting using Python - Tableau Superstore dataset at Sub-Category level**
 
 **About the Dataset**
 
@@ -11,9 +11,9 @@ We will try to forecast a time series data by building three different model wit
 
 Models we will use are as follows: 
 
-- ARIMA (Autoregressive Integrated Moving average)
-- LSTM (Long Short Term Memory Neural Network)
-- Facebook Prophet
+- **ARIMA (Autoregressive Integrated Moving average)**
+- **LSTM (Long Short Term Memory Neural Network)**
+- **Facebook Prophet**
       
 
 **Other Details:**
