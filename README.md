@@ -4,7 +4,7 @@
 
 **About the Dataset**
 
-    - You can download the dataset here
+    - We will download the dataset here:
     https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
     - This dataset contains the sales details of different categories and subcategories from 2014 to 2017.
 
