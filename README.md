@@ -4,7 +4,7 @@
 
 **About the Dataset**
 
-    - You can download the dataset here: *https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls*
+    - You can download the dataset here: https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
     - This dataset contains the sales details of different categories and subcategories from the year 2014 to 2017.
 
 We will try to forecast a time series data by building three different model with Python, and inspect their resutls. 
