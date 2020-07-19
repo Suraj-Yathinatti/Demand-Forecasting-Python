@@ -8,15 +8,15 @@
 We will try to forecast a time series data by building three different model with Python, and inspect their resutls. 
 
 Models we will use are as follows: 
-    • **ARIMA (Autoregressive Integrated Moving average)** 
-    • **LSTM (Long Short Term Memory Neural Network)**
-    • **Facebook Prophet**
+    -**ARIMA (Autoregressive Integrated Moving average)** 
+    -**LSTM (Long Short Term Memory Neural Network)**
+    -**Facebook Prophet**
       
 
 **Other Details:**
-    • **Operating systme:** Ubunut 18.04 LTS
-    • **Programming language:** Python3.6
-    • **Python programming library version:**
+    -**Operating systme:** Ubunut 18.04 LTS
+    -**Programming language:** Python3.6
+    -**Python programming library version:**
       Tensorflow: 1.14.0
       Keras: 2.3.1
       Matplotlib: 3.2.2
@@ -27,9 +27,9 @@ Models we will use are as follows:
 
 **References**
 *https://medium.com/@cdabakoglu/time-series-forecasting-arima-lstm-prophet-with-python-e73a750a9887
-https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp
-https://hub.packtpub.com/what-is-lstm/
-https://facebook.github.io/prophet/*
+- https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp
+- https://hub.packtpub.com/what-is-lstm/
+- https://facebook.github.io/prophet/*
 
 
 **Note:** Do not forget they are just quick and basic predictions so we can improve these models with tuning and according to the availability of the dataset and business requirements.
