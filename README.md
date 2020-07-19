@@ -3,8 +3,9 @@
 **Time-series Forecasting - Tableau Superstore dataset at Sub-Category level using ARIMA, LSTM, and Prophet with Python**
 
 **About the Dataset**
-    • You can download the dataset here. *https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls*
-    • This dataset contains the sales details of different categories and subcategories from the year 2014 to 2017.
+
+    - You can download the dataset here. *https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls*
+    - This dataset contains the sales details of different categories and subcategories from the year 2014 to 2017.
 
 We will try to forecast a time series data by building three different model with Python, and inspect their resutls. 
 
@@ -20,12 +21,12 @@ Models we will use are as follows:
    - **Operating systme:** Ubunut 18.04 LTS
    - **Programming language:** Python3.6
    - **Python programming library version**
-            - Tensorflow: 1.14.0
-            - Keras: 2.3.1
-            - Matplotlib: 3.2.2
-            - Plotly: 4.8.2
-            - Seaborn: 0.10.1
-            - Statsmodels: 0.11.1
+       - Tensorflow: 1.14.0
+       - Keras: 2.3.1
+       - Matplotlib: 3.2.2
+       - Plotly: 4.8.2
+       - Seaborn: 0.10.1
+       - Statsmodels: 0.11.1
        
 
 **References**
