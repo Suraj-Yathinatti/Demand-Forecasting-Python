@@ -11,9 +11,9 @@ We will try to forecast a time series data by building three different model wit
 
 Models we will use are as follows: 
 
-    **- ARIMA (Autoregressive Integrated Moving average)** 
-    **- LSTM (Long Short Term Memory Neural Network)**
-    **- Facebook Prophet**
+    - **ARIMA (Autoregressive Integrated Moving average)**
+    - **LSTM (Long Short Term Memory Neural Network)**
+    - **Facebook Prophet**
       
 
 **Other Details:**
@@ -40,4 +40,4 @@ Models we will use are as follows:
 **Note:** Do not forget they are just quick and basic predictions so we can improve these models with tuning and according to the availability of the dataset and business requirements.
 
 Cheers,
-- Suraj Yathinatti.
+    Suraj Yathinatti.
