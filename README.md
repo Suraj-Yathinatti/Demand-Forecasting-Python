@@ -40,6 +40,6 @@ Models we will use are as follows:
 
 **Note:** Do not forget they are just quick and basic predictions so we can improve these models with tuning and according to availability of the dataset and business requirements.
 
-Cheers :wink:
+Cheers, 
 
-Suraj Yathinatti. 
+Suraj Yathinatti :wink:.
